@@ -3,4 +3,6 @@ Autor: Juhan-Rasmus Risti
 
 Programm on mõeldud linux platvormile.
 
-Programmi kompileerimiseks tuleb ASM-Factorial kaustas teha "make" ning käivitamiseks "./fac".
+ASM'i iseseisva programmi kompileerimiseks tuleb Factorial-Program kaustas teha "make" ning käivitamiseks "./fac".
+
+C testprogrammi, mis kasutab ASM'i teeki, kompileerimiseks tuleb Factorial-Library kaustas teha "make" ning käivitamiseks "./test".
